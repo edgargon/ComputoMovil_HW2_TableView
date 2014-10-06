@@ -9,11 +9,46 @@
 /* Begin PBXBuildFile section */
 		2C2E8C2019E228B700AB05EF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C2E8C1F19E228B700AB05EF /* main.m */; };
 		2C2E8C2319E228B700AB05EF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C2E8C2219E228B700AB05EF /* AppDelegate.m */; };
-		2C2E8C2619E228B700AB05EF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C2E8C2519E228B700AB05EF /* ViewController.m */; };
+		2C2E8C2619E228B700AB05EF /* TableViewController_States.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C2E8C2519E228B700AB05EF /* TableViewController_States.m */; };
 		2C2E8C2919E228B700AB05EF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C2719E228B700AB05EF /* Main.storyboard */; };
 		2C2E8C2B19E228B700AB05EF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C2A19E228B700AB05EF /* Images.xcassets */; };
 		2C2E8C2E19E228B700AB05EF /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C2C19E228B700AB05EF /* LaunchScreen.xib */; };
 		2C2E8C3A19E228B700AB05EF /* HW2_TableViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C2E8C3919E228B700AB05EF /* HW2_TableViewTests.m */; };
+		2C2E8C4C19E22DA100AB05EF /* cell_States.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C2E8C4B19E22DA100AB05EF /* cell_States.m */; };
+		2C2E8C4F19E22DBF00AB05EF /* Declarations_States.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C2E8C4E19E22DBF00AB05EF /* Declarations_States.m */; };
+		2C2E8C7219E248D300AB05EF /* Chiapas_escudo.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C5219E248D300AB05EF /* Chiapas_escudo.png */; };
+		2C2E8C7319E248D300AB05EF /* Chiapas_Palenque.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C5319E248D300AB05EF /* Chiapas_Palenque.jpg */; };
+		2C2E8C7419E248D300AB05EF /* Chiapas_Tapachula.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C5419E248D300AB05EF /* Chiapas_Tapachula.jpg */; };
+		2C2E8C7519E248D300AB05EF /* Chiapas_Tuxtla.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C5519E248D300AB05EF /* Chiapas_Tuxtla.jpg */; };
+		2C2E8C7619E248D300AB05EF /* Colima_Colima.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C5619E248D300AB05EF /* Colima_Colima.jpg */; };
+		2C2E8C7719E248D300AB05EF /* Colima_escudo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C5719E248D300AB05EF /* Colima_escudo.jpg */; };
+		2C2E8C7819E248D300AB05EF /* Colima_Manzanillo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C5819E248D300AB05EF /* Colima_Manzanillo.jpg */; };
+		2C2E8C7919E248D300AB05EF /* Colima_Tecoman.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C5919E248D300AB05EF /* Colima_Tecoman.jpg */; };
+		2C2E8C7A19E248D300AB05EF /* Jalisco_escudo.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C5A19E248D300AB05EF /* Jalisco_escudo.png */; };
+		2C2E8C7B19E248D300AB05EF /* Jalisco_Gdl.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C5B19E248D300AB05EF /* Jalisco_Gdl.jpg */; };
+		2C2E8C7C19E248D300AB05EF /* Jalisco_Tonala.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C5C19E248D300AB05EF /* Jalisco_Tonala.JPG */; };
+		2C2E8C7D19E248D300AB05EF /* Jalisco_Zapopan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C5D19E248D300AB05EF /* Jalisco_Zapopan.jpg */; };
+		2C2E8C7E19E248D300AB05EF /* Michoacan_escudo.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C5E19E248D300AB05EF /* Michoacan_escudo.png */; };
+		2C2E8C7F19E248D300AB05EF /* Michoacan_Morelia.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C5F19E248D300AB05EF /* Michoacan_Morelia.jpg */; };
+		2C2E8C8019E248D300AB05EF /* Michoacan_Patzcuaro.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C6019E248D300AB05EF /* Michoacan_Patzcuaro.jpg */; };
+		2C2E8C8119E248D300AB05EF /* Michoacan_Uruapan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C6119E248D300AB05EF /* Michoacan_Uruapan.jpg */; };
+		2C2E8C8219E248D300AB05EF /* Nayarit_escudo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C6219E248D300AB05EF /* Nayarit_escudo.jpg */; };
+		2C2E8C8319E248D300AB05EF /* Nayarit_Ixtlan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C6319E248D300AB05EF /* Nayarit_Ixtlan.jpg */; };
+		2C2E8C8419E248D300AB05EF /* Nayarit_SanBlas.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C6419E248D300AB05EF /* Nayarit_SanBlas.jpg */; };
+		2C2E8C8519E248D300AB05EF /* Nayarit_Tepic.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C6519E248D300AB05EF /* Nayarit_Tepic.jpg */; };
+		2C2E8C8619E248D300AB05EF /* Sinaloa_Culiacan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C6619E248D300AB05EF /* Sinaloa_Culiacan.jpg */; };
+		2C2E8C8719E248D300AB05EF /* Sinaloa_escudo.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C6719E248D300AB05EF /* Sinaloa_escudo.png */; };
+		2C2E8C8819E248D300AB05EF /* Sinaloa_Mazatlan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C6819E248D300AB05EF /* Sinaloa_Mazatlan.jpg */; };
+		2C2E8C8919E248D300AB05EF /* Sinaloa_Mochis.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C6919E248D300AB05EF /* Sinaloa_Mochis.jpg */; };
+		2C2E8C8A19E248D300AB05EF /* Sonora_escudo.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C6A19E248D300AB05EF /* Sonora_escudo.png */; };
+		2C2E8C8B19E248D300AB05EF /* Sonora_Hermosillo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C6B19E248D300AB05EF /* Sonora_Hermosillo.jpg */; };
+		2C2E8C8C19E248D300AB05EF /* Sonora_Navojoa.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C6C19E248D300AB05EF /* Sonora_Navojoa.jpg */; };
+		2C2E8C8D19E248D300AB05EF /* Sonora_Obregon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C6D19E248D300AB05EF /* Sonora_Obregon.jpg */; };
+		2C2E8C8E19E248D300AB05EF /* Zacatecas_escudo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C6E19E248D300AB05EF /* Zacatecas_escudo.jpg */; };
+		2C2E8C8F19E248D300AB05EF /* Zacatecas_Gpe.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C6F19E248D300AB05EF /* Zacatecas_Gpe.jpg */; };
+		2C2E8C9019E248D300AB05EF /* Zacatecas_Victor.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C7019E248D300AB05EF /* Zacatecas_Victor.jpeg */; };
+		2C2E8C9119E248D300AB05EF /* Zacatecas_Zacatecas.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C7119E248D300AB05EF /* Zacatecas_Zacatecas.jpg */; };
+		2C2E8C9419E249E300AB05EF /* ViewController_Cities.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C2E8C9319E249E300AB05EF /* ViewController_Cities.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,14 +67,52 @@
 		2C2E8C1F19E228B700AB05EF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		2C2E8C2119E228B700AB05EF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		2C2E8C2219E228B700AB05EF /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		2C2E8C2419E228B700AB05EF /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		2C2E8C2519E228B700AB05EF /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		2C2E8C2419E228B700AB05EF /* TableViewController_States.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TableViewController_States.h; sourceTree = "<group>"; };
+		2C2E8C2519E228B700AB05EF /* TableViewController_States.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TableViewController_States.m; sourceTree = "<group>"; };
 		2C2E8C2819E228B700AB05EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		2C2E8C2A19E228B700AB05EF /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		2C2E8C2D19E228B700AB05EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		2C2E8C3319E228B700AB05EF /* HW2_TableViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HW2_TableViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C2E8C3819E228B700AB05EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2C2E8C3919E228B700AB05EF /* HW2_TableViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HW2_TableViewTests.m; sourceTree = "<group>"; };
+		2C2E8C4A19E22DA100AB05EF /* cell_States.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cell_States.h; sourceTree = "<group>"; };
+		2C2E8C4B19E22DA100AB05EF /* cell_States.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = cell_States.m; sourceTree = "<group>"; };
+		2C2E8C4D19E22DBF00AB05EF /* Declarations_States.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Declarations_States.h; sourceTree = "<group>"; };
+		2C2E8C4E19E22DBF00AB05EF /* Declarations_States.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Declarations_States.m; sourceTree = "<group>"; };
+		2C2E8C5219E248D300AB05EF /* Chiapas_escudo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Chiapas_escudo.png; sourceTree = "<group>"; };
+		2C2E8C5319E248D300AB05EF /* Chiapas_Palenque.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Chiapas_Palenque.jpg; sourceTree = "<group>"; };
+		2C2E8C5419E248D300AB05EF /* Chiapas_Tapachula.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Chiapas_Tapachula.jpg; sourceTree = "<group>"; };
+		2C2E8C5519E248D300AB05EF /* Chiapas_Tuxtla.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Chiapas_Tuxtla.jpg; sourceTree = "<group>"; };
+		2C2E8C5619E248D300AB05EF /* Colima_Colima.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Colima_Colima.jpg; sourceTree = "<group>"; };
+		2C2E8C5719E248D300AB05EF /* Colima_escudo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Colima_escudo.jpg; sourceTree = "<group>"; };
+		2C2E8C5819E248D300AB05EF /* Colima_Manzanillo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Colima_Manzanillo.jpg; sourceTree = "<group>"; };
+		2C2E8C5919E248D300AB05EF /* Colima_Tecoman.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Colima_Tecoman.jpg; sourceTree = "<group>"; };
+		2C2E8C5A19E248D300AB05EF /* Jalisco_escudo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Jalisco_escudo.png; sourceTree = "<group>"; };
+		2C2E8C5B19E248D300AB05EF /* Jalisco_Gdl.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Jalisco_Gdl.jpg; sourceTree = "<group>"; };
+		2C2E8C5C19E248D300AB05EF /* Jalisco_Tonala.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Jalisco_Tonala.JPG; sourceTree = "<group>"; };
+		2C2E8C5D19E248D300AB05EF /* Jalisco_Zapopan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Jalisco_Zapopan.jpg; sourceTree = "<group>"; };
+		2C2E8C5E19E248D300AB05EF /* Michoacan_escudo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Michoacan_escudo.png; sourceTree = "<group>"; };
+		2C2E8C5F19E248D300AB05EF /* Michoacan_Morelia.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Michoacan_Morelia.jpg; sourceTree = "<group>"; };
+		2C2E8C6019E248D300AB05EF /* Michoacan_Patzcuaro.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Michoacan_Patzcuaro.jpg; sourceTree = "<group>"; };
+		2C2E8C6119E248D300AB05EF /* Michoacan_Uruapan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Michoacan_Uruapan.jpg; sourceTree = "<group>"; };
+		2C2E8C6219E248D300AB05EF /* Nayarit_escudo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Nayarit_escudo.jpg; sourceTree = "<group>"; };
+		2C2E8C6319E248D300AB05EF /* Nayarit_Ixtlan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Nayarit_Ixtlan.jpg; sourceTree = "<group>"; };
+		2C2E8C6419E248D300AB05EF /* Nayarit_SanBlas.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Nayarit_SanBlas.jpg; sourceTree = "<group>"; };
+		2C2E8C6519E248D300AB05EF /* Nayarit_Tepic.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Nayarit_Tepic.jpg; sourceTree = "<group>"; };
+		2C2E8C6619E248D300AB05EF /* Sinaloa_Culiacan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sinaloa_Culiacan.jpg; sourceTree = "<group>"; };
+		2C2E8C6719E248D300AB05EF /* Sinaloa_escudo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Sinaloa_escudo.png; sourceTree = "<group>"; };
+		2C2E8C6819E248D300AB05EF /* Sinaloa_Mazatlan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sinaloa_Mazatlan.jpg; sourceTree = "<group>"; };
+		2C2E8C6919E248D300AB05EF /* Sinaloa_Mochis.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sinaloa_Mochis.jpg; sourceTree = "<group>"; };
+		2C2E8C6A19E248D300AB05EF /* Sonora_escudo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Sonora_escudo.png; sourceTree = "<group>"; };
+		2C2E8C6B19E248D300AB05EF /* Sonora_Hermosillo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sonora_Hermosillo.jpg; sourceTree = "<group>"; };
+		2C2E8C6C19E248D300AB05EF /* Sonora_Navojoa.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sonora_Navojoa.jpg; sourceTree = "<group>"; };
+		2C2E8C6D19E248D300AB05EF /* Sonora_Obregon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sonora_Obregon.jpg; sourceTree = "<group>"; };
+		2C2E8C6E19E248D300AB05EF /* Zacatecas_escudo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Zacatecas_escudo.jpg; sourceTree = "<group>"; };
+		2C2E8C6F19E248D300AB05EF /* Zacatecas_Gpe.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Zacatecas_Gpe.jpg; sourceTree = "<group>"; };
+		2C2E8C7019E248D300AB05EF /* Zacatecas_Victor.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Zacatecas_Victor.jpeg; sourceTree = "<group>"; };
+		2C2E8C7119E248D300AB05EF /* Zacatecas_Zacatecas.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Zacatecas_Zacatecas.jpg; sourceTree = "<group>"; };
+		2C2E8C9219E249E300AB05EF /* ViewController_Cities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController_Cities.h; sourceTree = "<group>"; };
+		2C2E8C9319E249E300AB05EF /* ViewController_Cities.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController_Cities.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +136,7 @@
 		2C2E8C1119E228B700AB05EF = {
 			isa = PBXGroup;
 			children = (
+				2C2E8C4619E22D3C00AB05EF /* Customized */,
 				2C2E8C1C19E228B700AB05EF /* HW2_TableView */,
 				2C2E8C3619E228B700AB05EF /* HW2_TableViewTests */,
 				2C2E8C1B19E228B700AB05EF /* Products */,
@@ -83,8 +157,12 @@
 			children = (
 				2C2E8C2119E228B700AB05EF /* AppDelegate.h */,
 				2C2E8C2219E228B700AB05EF /* AppDelegate.m */,
-				2C2E8C2419E228B700AB05EF /* ViewController.h */,
-				2C2E8C2519E228B700AB05EF /* ViewController.m */,
+				2C2E8C4D19E22DBF00AB05EF /* Declarations_States.h */,
+				2C2E8C4E19E22DBF00AB05EF /* Declarations_States.m */,
+				2C2E8C2419E228B700AB05EF /* TableViewController_States.h */,
+				2C2E8C2519E228B700AB05EF /* TableViewController_States.m */,
+				2C2E8C9219E249E300AB05EF /* ViewController_Cities.h */,
+				2C2E8C9319E249E300AB05EF /* ViewController_Cities.m */,
 				2C2E8C2719E228B700AB05EF /* Main.storyboard */,
 				2C2E8C2A19E228B700AB05EF /* Images.xcassets */,
 				2C2E8C2C19E228B700AB05EF /* LaunchScreen.xib */,
@@ -96,6 +174,7 @@
 		2C2E8C1D19E228B700AB05EF /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				2C2E8C5019E248D300AB05EF /* img */,
 				2C2E8C1E19E228B700AB05EF /* Info.plist */,
 				2C2E8C1F19E228B700AB05EF /* main.m */,
 			);
@@ -117,6 +196,62 @@
 				2C2E8C3819E228B700AB05EF /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		2C2E8C4619E22D3C00AB05EF /* Customized */ = {
+			isa = PBXGroup;
+			children = (
+				2C2E8C4A19E22DA100AB05EF /* cell_States.h */,
+				2C2E8C4B19E22DA100AB05EF /* cell_States.m */,
+			);
+			name = Customized;
+			sourceTree = "<group>";
+		};
+		2C2E8C5019E248D300AB05EF /* img */ = {
+			isa = PBXGroup;
+			children = (
+				2C2E8C5119E248D300AB05EF /* Estados */,
+			);
+			path = img;
+			sourceTree = "<group>";
+		};
+		2C2E8C5119E248D300AB05EF /* Estados */ = {
+			isa = PBXGroup;
+			children = (
+				2C2E8C5219E248D300AB05EF /* Chiapas_escudo.png */,
+				2C2E8C5319E248D300AB05EF /* Chiapas_Palenque.jpg */,
+				2C2E8C5419E248D300AB05EF /* Chiapas_Tapachula.jpg */,
+				2C2E8C5519E248D300AB05EF /* Chiapas_Tuxtla.jpg */,
+				2C2E8C5619E248D300AB05EF /* Colima_Colima.jpg */,
+				2C2E8C5719E248D300AB05EF /* Colima_escudo.jpg */,
+				2C2E8C5819E248D300AB05EF /* Colima_Manzanillo.jpg */,
+				2C2E8C5919E248D300AB05EF /* Colima_Tecoman.jpg */,
+				2C2E8C5A19E248D300AB05EF /* Jalisco_escudo.png */,
+				2C2E8C5B19E248D300AB05EF /* Jalisco_Gdl.jpg */,
+				2C2E8C5C19E248D300AB05EF /* Jalisco_Tonala.JPG */,
+				2C2E8C5D19E248D300AB05EF /* Jalisco_Zapopan.jpg */,
+				2C2E8C5E19E248D300AB05EF /* Michoacan_escudo.png */,
+				2C2E8C5F19E248D300AB05EF /* Michoacan_Morelia.jpg */,
+				2C2E8C6019E248D300AB05EF /* Michoacan_Patzcuaro.jpg */,
+				2C2E8C6119E248D300AB05EF /* Michoacan_Uruapan.jpg */,
+				2C2E8C6219E248D300AB05EF /* Nayarit_escudo.jpg */,
+				2C2E8C6319E248D300AB05EF /* Nayarit_Ixtlan.jpg */,
+				2C2E8C6419E248D300AB05EF /* Nayarit_SanBlas.jpg */,
+				2C2E8C6519E248D300AB05EF /* Nayarit_Tepic.jpg */,
+				2C2E8C6619E248D300AB05EF /* Sinaloa_Culiacan.jpg */,
+				2C2E8C6719E248D300AB05EF /* Sinaloa_escudo.png */,
+				2C2E8C6819E248D300AB05EF /* Sinaloa_Mazatlan.jpg */,
+				2C2E8C6919E248D300AB05EF /* Sinaloa_Mochis.jpg */,
+				2C2E8C6A19E248D300AB05EF /* Sonora_escudo.png */,
+				2C2E8C6B19E248D300AB05EF /* Sonora_Hermosillo.jpg */,
+				2C2E8C6C19E248D300AB05EF /* Sonora_Navojoa.jpg */,
+				2C2E8C6D19E248D300AB05EF /* Sonora_Obregon.jpg */,
+				2C2E8C6E19E248D300AB05EF /* Zacatecas_escudo.jpg */,
+				2C2E8C6F19E248D300AB05EF /* Zacatecas_Gpe.jpg */,
+				2C2E8C7019E248D300AB05EF /* Zacatecas_Victor.jpeg */,
+				2C2E8C7119E248D300AB05EF /* Zacatecas_Zacatecas.jpg */,
+			);
+			path = Estados;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -199,9 +334,41 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C2E8C7319E248D300AB05EF /* Chiapas_Palenque.jpg in Resources */,
+				2C2E8C8619E248D300AB05EF /* Sinaloa_Culiacan.jpg in Resources */,
+				2C2E8C7619E248D300AB05EF /* Colima_Colima.jpg in Resources */,
+				2C2E8C8519E248D300AB05EF /* Nayarit_Tepic.jpg in Resources */,
+				2C2E8C9119E248D300AB05EF /* Zacatecas_Zacatecas.jpg in Resources */,
+				2C2E8C8719E248D300AB05EF /* Sinaloa_escudo.png in Resources */,
+				2C2E8C8819E248D300AB05EF /* Sinaloa_Mazatlan.jpg in Resources */,
+				2C2E8C8B19E248D300AB05EF /* Sonora_Hermosillo.jpg in Resources */,
+				2C2E8C7919E248D300AB05EF /* Colima_Tecoman.jpg in Resources */,
+				2C2E8C8419E248D300AB05EF /* Nayarit_SanBlas.jpg in Resources */,
+				2C2E8C7219E248D300AB05EF /* Chiapas_escudo.png in Resources */,
+				2C2E8C7D19E248D300AB05EF /* Jalisco_Zapopan.jpg in Resources */,
+				2C2E8C8919E248D300AB05EF /* Sinaloa_Mochis.jpg in Resources */,
+				2C2E8C7A19E248D300AB05EF /* Jalisco_escudo.png in Resources */,
+				2C2E8C8A19E248D300AB05EF /* Sonora_escudo.png in Resources */,
+				2C2E8C7719E248D300AB05EF /* Colima_escudo.jpg in Resources */,
+				2C2E8C8319E248D300AB05EF /* Nayarit_Ixtlan.jpg in Resources */,
+				2C2E8C7F19E248D300AB05EF /* Michoacan_Morelia.jpg in Resources */,
 				2C2E8C2919E228B700AB05EF /* Main.storyboard in Resources */,
 				2C2E8C2E19E228B700AB05EF /* LaunchScreen.xib in Resources */,
+				2C2E8C7519E248D300AB05EF /* Chiapas_Tuxtla.jpg in Resources */,
+				2C2E8C8E19E248D300AB05EF /* Zacatecas_escudo.jpg in Resources */,
+				2C2E8C8219E248D300AB05EF /* Nayarit_escudo.jpg in Resources */,
 				2C2E8C2B19E228B700AB05EF /* Images.xcassets in Resources */,
+				2C2E8C7419E248D300AB05EF /* Chiapas_Tapachula.jpg in Resources */,
+				2C2E8C8019E248D300AB05EF /* Michoacan_Patzcuaro.jpg in Resources */,
+				2C2E8C8C19E248D300AB05EF /* Sonora_Navojoa.jpg in Resources */,
+				2C2E8C8D19E248D300AB05EF /* Sonora_Obregon.jpg in Resources */,
+				2C2E8C7E19E248D300AB05EF /* Michoacan_escudo.png in Resources */,
+				2C2E8C7819E248D300AB05EF /* Colima_Manzanillo.jpg in Resources */,
+				2C2E8C8119E248D300AB05EF /* Michoacan_Uruapan.jpg in Resources */,
+				2C2E8C8F19E248D300AB05EF /* Zacatecas_Gpe.jpg in Resources */,
+				2C2E8C7C19E248D300AB05EF /* Jalisco_Tonala.JPG in Resources */,
+				2C2E8C9019E248D300AB05EF /* Zacatecas_Victor.jpeg in Resources */,
+				2C2E8C7B19E248D300AB05EF /* Jalisco_Gdl.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,9 +386,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2C2E8C2619E228B700AB05EF /* ViewController.m in Sources */,
+				2C2E8C2619E228B700AB05EF /* TableViewController_States.m in Sources */,
 				2C2E8C2319E228B700AB05EF /* AppDelegate.m in Sources */,
+				2C2E8C4F19E22DBF00AB05EF /* Declarations_States.m in Sources */,
+				2C2E8C9419E249E300AB05EF /* ViewController_Cities.m in Sources */,
 				2C2E8C2019E228B700AB05EF /* main.m in Sources */,
+				2C2E8C4C19E22DA100AB05EF /* cell_States.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -8,7 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface TableViewController_States : UIViewController <UITableViewDataSource, UITableViewDelegate>
+
 
 
 @end
