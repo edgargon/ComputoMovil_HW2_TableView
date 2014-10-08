@@ -16,5 +16,20 @@ extern NSMutableArray   *StateImg;
 extern  NSString        *strSelectedName;
 extern  NSString        *strSelectedImg;
 
+extern NSInteger StateSelected;
+extern NSMutableArray  *CityImg;
+
+
+extern NSMutableArray *NmbAmigo_escuela;
+extern NSMutableArray *NmbAmigo_trabajo;
+
+extern NSMutableArray *ApellidoAmigo_escuela;
+extern NSMutableArray *ApellidoAmigo_trabajo;
+
+extern NSMutableArray *EdadAmigo_escuela;
+extern NSMutableArray *EdadAmigo_trabajo;
+
+extern NSMutableArray *ImgAmigo_escuela;
+extern NSMutableArray *ImgAmigo_trabajo;
 
 @end

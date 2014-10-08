@@ -15,4 +15,8 @@ NSMutableArray *StateImg;
 
 NSString        *strSelectedName;
 NSString        *strSelectedImg;
+
+NSInteger        StateSelected;
+NSMutableArray  *CityImg;
+
 @end

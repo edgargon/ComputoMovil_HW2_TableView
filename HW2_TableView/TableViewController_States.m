@@ -71,7 +71,7 @@
 {
     strSelectedName     = [NSString stringWithFormat:@"%@", StateNames[indexPath.row]];
     strSelectedImg      = [NSString stringWithFormat:@"%@", StateImg[indexPath.row]];
-    
+    StateSelected       = indexPath.row;
     NSLog(@"strSelectedName %@", strSelectedName);
     NSLog(@"strSelectedImg %@", strSelectedImg);
     

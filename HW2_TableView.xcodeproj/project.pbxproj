@@ -49,6 +49,19 @@
 		2C2E8C9019E248D300AB05EF /* Zacatecas_Victor.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C7019E248D300AB05EF /* Zacatecas_Victor.jpeg */; };
 		2C2E8C9119E248D300AB05EF /* Zacatecas_Zacatecas.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C2E8C7119E248D300AB05EF /* Zacatecas_Zacatecas.jpg */; };
 		2C2E8C9419E249E300AB05EF /* ViewController_Cities.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C2E8C9319E249E300AB05EF /* ViewController_Cities.m */; };
+		2CFBE9BF19E37014004DB47D /* cell_Cities.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CFBE9BE19E37014004DB47D /* cell_Cities.m */; };
+		2CFBE9D119E39146004DB47D /* Andres_Guardado.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2CFBE9C719E39146004DB47D /* Andres_Guardado.jpg */; };
+		2CFBE9D219E39146004DB47D /* Andres_Iniesta.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2CFBE9C819E39146004DB47D /* Andres_Iniesta.jpg */; };
+		2CFBE9D319E39146004DB47D /* Carlos_Salcido.png in Resources */ = {isa = PBXBuildFile; fileRef = 2CFBE9C919E39146004DB47D /* Carlos_Salcido.png */; };
+		2CFBE9D419E39146004DB47D /* Fernando_Torres.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2CFBE9CA19E39146004DB47D /* Fernando_Torres.jpg */; };
+		2CFBE9D519E39146004DB47D /* iker_casillas.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2CFBE9CB19E39146004DB47D /* iker_casillas.jpg */; };
+		2CFBE9D619E39146004DB47D /* Javier_Hernandez.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2CFBE9CC19E39146004DB47D /* Javier_Hernandez.jpg */; };
+		2CFBE9D719E39146004DB47D /* Oribe_Peralta.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2CFBE9CD19E39146004DB47D /* Oribe_Peralta.jpg */; };
+		2CFBE9D819E39146004DB47D /* Rafael_Marquez.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2CFBE9CE19E39146004DB47D /* Rafael_Marquez.jpg */; };
+		2CFBE9D919E39146004DB47D /* raul_jimenez.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2CFBE9CF19E39146004DB47D /* raul_jimenez.jpg */; };
+		2CFBE9DA19E39146004DB47D /* Xavi_Hernandez.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2CFBE9D019E39146004DB47D /* Xavi_Hernandez.jpg */; };
+		2CFBE9E019E3AB61004DB47D /* ViewController_Amigos.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CFBE9DF19E3AB61004DB47D /* ViewController_Amigos.m */; };
+		2CFBE9E319E3AC3E004DB47D /* cell_Amigos.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CFBE9E219E3AC3E004DB47D /* cell_Amigos.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -113,6 +126,22 @@
 		2C2E8C7119E248D300AB05EF /* Zacatecas_Zacatecas.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Zacatecas_Zacatecas.jpg; sourceTree = "<group>"; };
 		2C2E8C9219E249E300AB05EF /* ViewController_Cities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController_Cities.h; sourceTree = "<group>"; };
 		2C2E8C9319E249E300AB05EF /* ViewController_Cities.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController_Cities.m; sourceTree = "<group>"; };
+		2CFBE9BD19E37014004DB47D /* cell_Cities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cell_Cities.h; sourceTree = "<group>"; };
+		2CFBE9BE19E37014004DB47D /* cell_Cities.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = cell_Cities.m; sourceTree = "<group>"; };
+		2CFBE9C719E39146004DB47D /* Andres_Guardado.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Andres_Guardado.jpg; path = Amigos/Andres_Guardado.jpg; sourceTree = "<group>"; };
+		2CFBE9C819E39146004DB47D /* Andres_Iniesta.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Andres_Iniesta.jpg; path = Amigos/Andres_Iniesta.jpg; sourceTree = "<group>"; };
+		2CFBE9C919E39146004DB47D /* Carlos_Salcido.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Carlos_Salcido.png; path = Amigos/Carlos_Salcido.png; sourceTree = "<group>"; };
+		2CFBE9CA19E39146004DB47D /* Fernando_Torres.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Fernando_Torres.jpg; path = Amigos/Fernando_Torres.jpg; sourceTree = "<group>"; };
+		2CFBE9CB19E39146004DB47D /* iker_casillas.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = iker_casillas.jpg; path = Amigos/iker_casillas.jpg; sourceTree = "<group>"; };
+		2CFBE9CC19E39146004DB47D /* Javier_Hernandez.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Javier_Hernandez.jpg; path = Amigos/Javier_Hernandez.jpg; sourceTree = "<group>"; };
+		2CFBE9CD19E39146004DB47D /* Oribe_Peralta.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Oribe_Peralta.jpg; path = Amigos/Oribe_Peralta.jpg; sourceTree = "<group>"; };
+		2CFBE9CE19E39146004DB47D /* Rafael_Marquez.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Rafael_Marquez.jpg; path = Amigos/Rafael_Marquez.jpg; sourceTree = "<group>"; };
+		2CFBE9CF19E39146004DB47D /* raul_jimenez.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = raul_jimenez.jpg; path = Amigos/raul_jimenez.jpg; sourceTree = "<group>"; };
+		2CFBE9D019E39146004DB47D /* Xavi_Hernandez.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Xavi_Hernandez.jpg; path = Amigos/Xavi_Hernandez.jpg; sourceTree = "<group>"; };
+		2CFBE9DE19E3AB61004DB47D /* ViewController_Amigos.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController_Amigos.h; sourceTree = "<group>"; };
+		2CFBE9DF19E3AB61004DB47D /* ViewController_Amigos.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController_Amigos.m; sourceTree = "<group>"; };
+		2CFBE9E119E3AC3E004DB47D /* cell_Amigos.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cell_Amigos.h; sourceTree = "<group>"; };
+		2CFBE9E219E3AC3E004DB47D /* cell_Amigos.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = cell_Amigos.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -163,6 +192,8 @@
 				2C2E8C2519E228B700AB05EF /* TableViewController_States.m */,
 				2C2E8C9219E249E300AB05EF /* ViewController_Cities.h */,
 				2C2E8C9319E249E300AB05EF /* ViewController_Cities.m */,
+				2CFBE9DE19E3AB61004DB47D /* ViewController_Amigos.h */,
+				2CFBE9DF19E3AB61004DB47D /* ViewController_Amigos.m */,
 				2C2E8C2719E228B700AB05EF /* Main.storyboard */,
 				2C2E8C2A19E228B700AB05EF /* Images.xcassets */,
 				2C2E8C2C19E228B700AB05EF /* LaunchScreen.xib */,
@@ -203,6 +234,10 @@
 			children = (
 				2C2E8C4A19E22DA100AB05EF /* cell_States.h */,
 				2C2E8C4B19E22DA100AB05EF /* cell_States.m */,
+				2CFBE9BD19E37014004DB47D /* cell_Cities.h */,
+				2CFBE9BE19E37014004DB47D /* cell_Cities.m */,
+				2CFBE9E119E3AC3E004DB47D /* cell_Amigos.h */,
+				2CFBE9E219E3AC3E004DB47D /* cell_Amigos.m */,
 			);
 			name = Customized;
 			sourceTree = "<group>";
@@ -210,6 +245,7 @@
 		2C2E8C5019E248D300AB05EF /* img */ = {
 			isa = PBXGroup;
 			children = (
+				2CFBE9C619E39129004DB47D /* Amigos */,
 				2C2E8C5119E248D300AB05EF /* Estados */,
 			);
 			path = img;
@@ -252,6 +288,23 @@
 				2C2E8C7119E248D300AB05EF /* Zacatecas_Zacatecas.jpg */,
 			);
 			path = Estados;
+			sourceTree = "<group>";
+		};
+		2CFBE9C619E39129004DB47D /* Amigos */ = {
+			isa = PBXGroup;
+			children = (
+				2CFBE9C719E39146004DB47D /* Andres_Guardado.jpg */,
+				2CFBE9C819E39146004DB47D /* Andres_Iniesta.jpg */,
+				2CFBE9C919E39146004DB47D /* Carlos_Salcido.png */,
+				2CFBE9CA19E39146004DB47D /* Fernando_Torres.jpg */,
+				2CFBE9CB19E39146004DB47D /* iker_casillas.jpg */,
+				2CFBE9CC19E39146004DB47D /* Javier_Hernandez.jpg */,
+				2CFBE9CD19E39146004DB47D /* Oribe_Peralta.jpg */,
+				2CFBE9CE19E39146004DB47D /* Rafael_Marquez.jpg */,
+				2CFBE9CF19E39146004DB47D /* raul_jimenez.jpg */,
+				2CFBE9D019E39146004DB47D /* Xavi_Hernandez.jpg */,
+			);
+			name = Amigos;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -334,6 +387,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2CFBE9D219E39146004DB47D /* Andres_Iniesta.jpg in Resources */,
 				2C2E8C7319E248D300AB05EF /* Chiapas_Palenque.jpg in Resources */,
 				2C2E8C8619E248D300AB05EF /* Sinaloa_Culiacan.jpg in Resources */,
 				2C2E8C7619E248D300AB05EF /* Colima_Colima.jpg in Resources */,
@@ -347,14 +401,20 @@
 				2C2E8C7219E248D300AB05EF /* Chiapas_escudo.png in Resources */,
 				2C2E8C7D19E248D300AB05EF /* Jalisco_Zapopan.jpg in Resources */,
 				2C2E8C8919E248D300AB05EF /* Sinaloa_Mochis.jpg in Resources */,
+				2CFBE9D619E39146004DB47D /* Javier_Hernandez.jpg in Resources */,
 				2C2E8C7A19E248D300AB05EF /* Jalisco_escudo.png in Resources */,
 				2C2E8C8A19E248D300AB05EF /* Sonora_escudo.png in Resources */,
+				2CFBE9D719E39146004DB47D /* Oribe_Peralta.jpg in Resources */,
 				2C2E8C7719E248D300AB05EF /* Colima_escudo.jpg in Resources */,
 				2C2E8C8319E248D300AB05EF /* Nayarit_Ixtlan.jpg in Resources */,
 				2C2E8C7F19E248D300AB05EF /* Michoacan_Morelia.jpg in Resources */,
+				2CFBE9D319E39146004DB47D /* Carlos_Salcido.png in Resources */,
+				2CFBE9D819E39146004DB47D /* Rafael_Marquez.jpg in Resources */,
 				2C2E8C2919E228B700AB05EF /* Main.storyboard in Resources */,
 				2C2E8C2E19E228B700AB05EF /* LaunchScreen.xib in Resources */,
+				2CFBE9D519E39146004DB47D /* iker_casillas.jpg in Resources */,
 				2C2E8C7519E248D300AB05EF /* Chiapas_Tuxtla.jpg in Resources */,
+				2CFBE9D119E39146004DB47D /* Andres_Guardado.jpg in Resources */,
 				2C2E8C8E19E248D300AB05EF /* Zacatecas_escudo.jpg in Resources */,
 				2C2E8C8219E248D300AB05EF /* Nayarit_escudo.jpg in Resources */,
 				2C2E8C2B19E228B700AB05EF /* Images.xcassets in Resources */,
@@ -363,11 +423,14 @@
 				2C2E8C8C19E248D300AB05EF /* Sonora_Navojoa.jpg in Resources */,
 				2C2E8C8D19E248D300AB05EF /* Sonora_Obregon.jpg in Resources */,
 				2C2E8C7E19E248D300AB05EF /* Michoacan_escudo.png in Resources */,
+				2CFBE9DA19E39146004DB47D /* Xavi_Hernandez.jpg in Resources */,
+				2CFBE9D919E39146004DB47D /* raul_jimenez.jpg in Resources */,
 				2C2E8C7819E248D300AB05EF /* Colima_Manzanillo.jpg in Resources */,
 				2C2E8C8119E248D300AB05EF /* Michoacan_Uruapan.jpg in Resources */,
 				2C2E8C8F19E248D300AB05EF /* Zacatecas_Gpe.jpg in Resources */,
 				2C2E8C7C19E248D300AB05EF /* Jalisco_Tonala.JPG in Resources */,
 				2C2E8C9019E248D300AB05EF /* Zacatecas_Victor.jpeg in Resources */,
+				2CFBE9D419E39146004DB47D /* Fernando_Torres.jpg in Resources */,
 				2C2E8C7B19E248D300AB05EF /* Jalisco_Gdl.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -386,12 +449,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2CFBE9E019E3AB61004DB47D /* ViewController_Amigos.m in Sources */,
 				2C2E8C2619E228B700AB05EF /* TableViewController_States.m in Sources */,
 				2C2E8C2319E228B700AB05EF /* AppDelegate.m in Sources */,
 				2C2E8C4F19E22DBF00AB05EF /* Declarations_States.m in Sources */,
 				2C2E8C9419E249E300AB05EF /* ViewController_Cities.m in Sources */,
+				2CFBE9BF19E37014004DB47D /* cell_Cities.m in Sources */,
 				2C2E8C2019E228B700AB05EF /* main.m in Sources */,
 				2C2E8C4C19E22DA100AB05EF /* cell_States.m in Sources */,
+				2CFBE9E319E3AC3E004DB47D /* cell_Amigos.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -582,6 +648,7 @@
 				2C2E8C3F19E228B700AB05EF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2C2E8C4019E228B700AB05EF /* Build configuration list for PBXNativeTarget "HW2_TableViewTests" */ = {
 			isa = XCConfigurationList;
@@ -590,6 +657,7 @@
 				2C2E8C4219E228B700AB05EF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
